@@ -1,2 +1,2 @@
 # OPP
-Codes using oObject-oriented programming paradigm
+Codes using Object-oriented programming paradigm
